@@ -6,6 +6,12 @@ equilibrium in order to generate uniform, normal and exponential
 random variates, respectively. This package contains a header-only
 C++ implementation of the molecular dice RNG.
 
+Accompanying publication:
+[Molecular dice: Random number generators á la Boltzmann,
+Physical Review E 98, no. 6 (2018): 063315.][1]
+
+[1]: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.063315
+
 Usage
 =====
 `example.cpp` demonstrates the simple manner in which an instance
